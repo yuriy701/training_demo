@@ -9,5 +9,6 @@ public static void main(String[] args){
 		System.out.println(" cm 5");
 		System.out.println(" cm 6");
 		System.out.println(" cm 7");
+		System.out.println(" cm 8");
 	}
 }
