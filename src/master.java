@@ -17,6 +17,7 @@ public static void main(String[] args){
 		System.out.println(" cm 7");
 		System.out.println(" cm 8");
 		System.out.println(" cm 9");
+		System.out.println(" cm 10");
 
 	}
 }
