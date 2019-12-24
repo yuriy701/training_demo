@@ -30,9 +30,5 @@ public static void main(String[] args){
 		
 		System.out.println(" commit 300 ");
 
-		System.out.println(" commit 301 ");
-		System.out.println(" commit 302 ");
-		System.out.println(" commit 303 ");
-		
 	}
 }
