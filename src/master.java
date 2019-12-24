@@ -7,6 +7,8 @@ public static void main(String[] args){
 		System.out.println(" cm 3");
 		System.out.println(" cm 4 + readme ");
 
+		System.out.println(" st 01 ");
+
 		System.out.println("  b4  cm 1");
 		System.out.println("  b4  cm 2");
 
@@ -32,6 +34,8 @@ public static void main(String[] args){
 		System.out.println(" commit 302 ");
 		System.out.println(" commit 303 ");
 		System.out.println(" commit 305 ");
+		
+		System.out.println(" st 1 ");
 		
 	}
 }
