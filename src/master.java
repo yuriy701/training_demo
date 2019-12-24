@@ -22,6 +22,7 @@ public static void main(String[] args){
 		System.out.println(" local 11");
 
 		System.out.println(" GH cm 11");
-
+		System.out.println(" cm 12");
+		
 	}
 }
