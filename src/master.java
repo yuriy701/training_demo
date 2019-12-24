@@ -29,8 +29,10 @@ public static void main(String[] args){
 		System.out.println(" 20 ");
 		
 		System.out.println(" commit 300 ");
-		
 
+		System.out.println(" reb test 1 ");
+		System.out.println(" reb test 2 ");
+		System.out.println(" reb test 3 ");
 
 	}
 }
